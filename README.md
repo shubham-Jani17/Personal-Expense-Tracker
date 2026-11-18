@@ -1,5 +1,5 @@
 # Personal Expense Tracker (CLI)
-
+Practice Model
 A production-ready, modular Command-Line Interface (CLI) Personal Expense Tracker written in Python and backed by SQLite. Designed with a clean three-tier architecture separating presentation, business logic, and data persistence layers.
 
 ---
